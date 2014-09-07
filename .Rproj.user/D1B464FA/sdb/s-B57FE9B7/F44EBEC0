@@ -1,12 +1,12 @@
 {
-    "contents" : "*.html\n.DS_Store\n_site\n.sass-cache\n.Rhistory\n.cache\n/slides/assets/fig/\n.Rproj\n",
+    "contents" : "*.html\n.DS_Store\n_site\n.sass-cache\n.Rhistory\n.cache\n/slides/assets/fig/\n*.Rproj\n*.Rproj.user",
     "created" : 1410059834629.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3280320349",
+    "hash" : "1742381987",
     "id" : "F44EBEC0",
-    "lastKnownWriteTime" : 1410059847,
+    "lastKnownWriteTime" : 1410059963,
     "path" : "~/Documents/Classes/Microbialinformatics/homework1/microbialinformatics.github.io/.gitignore",
     "project_path" : ".gitignore",
     "properties" : {
