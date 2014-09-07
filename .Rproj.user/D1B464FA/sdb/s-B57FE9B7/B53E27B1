@@ -1,0 +1,16 @@
+{
+    "contents" : "---\nlayout: page\n---\n\n\nLast, First (github) | Department | Year | Something unique about you | Picture\n------------|-------------|-----------|------------|------|-------------------|-----------\n[Schloss, Pat](https://github.com/pschloss) | Microbiology & Immunology | Too Many | I have a farm with sheep, cows, chickens, pigs, and 7 kids | <img src=\"img/pschloss.jpg\" style=\"width: 200px;\"/>\n[Elmore, Amanda](https://github.com/agelmore) | Microbiology & Immunology | 2nd year PhD | My parents have llamas! | <img src=\"img/Elmore.jpg\" style=\"width: 200px;\"/>\n",
+    "created" : 1410059350411.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3039487866",
+    "id" : "B53E27B1",
+    "lastKnownWriteTime" : 1410059446,
+    "path" : "~/Documents/Classes/Microbialinformatics/homework1/microbialinformatics.github.io/roster.md",
+    "project_path" : "roster.md",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "markdown"
+}

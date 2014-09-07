@@ -1,0 +1,16 @@
+{
+    "contents" : "*.html\n.DS_Store\n_site\n.sass-cache\n.Rhistory\n.cache\n/slides/assets/fig/\n.Rproj\n",
+    "created" : 1410059834629.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3280320349",
+    "id" : "F44EBEC0",
+    "lastKnownWriteTime" : 1410059847,
+    "path" : "~/Documents/Classes/Microbialinformatics/homework1/microbialinformatics.github.io/.gitignore",
+    "project_path" : ".gitignore",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "text"
+}
