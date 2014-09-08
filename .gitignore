@@ -6,4 +6,4 @@ _site
 .cache
 /slides/assets/fig/
 *.Rproj
-*.Rproj.user
+.Rproj.user/*
